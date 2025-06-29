@@ -44,14 +44,20 @@ Lab4 CI/CDを利用したアプリのデプロイ
 >
 > Step1をスキップした場合、Spte３は体験いただけません。
 
-1. https://github.com/kota661/mygame にアクセスし、リポジトリをForkしてください
+1. リポジトリをForkするために、https://github.com/kota661/mygame にアクセスし、Forkボタンクリックしてください
+   
    パブリックリポジトリで作成してください
 
    ![image-20241007135717066](./img/image-20241007135717066.png)
 
-2. forkしたリポジトリのURLをこのあと利用するため、メモしてください
+3. "Copy the main branch only"のチェックを外してCreate forkボタンをクリックしてください
 
-   ![image-20241007135948605](./img/image-20241007135948605.png)
+   ![image-createanewfork](./img/createanewfork.png)
+  
+
+5. forkしたリポジトリのURLをこのあと利用するため、メモしてください
+
+   ![forkrepoURL](./img/forkrepoURL.png)
 
 
 
